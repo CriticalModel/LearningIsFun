@@ -1,9 +1,3 @@
-# LearningIsFun
-
-It's learning.  And it's fun.
-
-what and why
-<picture>
-	<source srcset="BB-profile-1800px.jpg 2x, BB-profile-800px.jpg 1.5x, BB-profile-400px.jpg />
-	<img src="BB-profile-400px.jpg" alt="A picture of Ben" />
-</picture>
+## Ben Baker
+| ```Hi!  I'm Ben.  I've been messing around on computers forever.  I'm coming up on my 10th wedding anniversary, and my seven year old is my everything.  ``` | <img src="./BB-profile-400px.jpg" width="200VH" />|
+| --- | --- |
